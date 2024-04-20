@@ -11,4 +11,11 @@ Esta sección es sobre todo para aquellas personas que no tienen experiencia con
 - Después, cierra la aplicación y descarga el [Fabric Loader](https://fabricmc.net/)
 - Listo, puedes comenzar a descargar los mods. 👍🏼
 
+## Mods
+
+- Los mods los encuentras en mi [Drive](https://drive.google.com/drive/folders/17ZKcugBdMRl1W_2kah3LunBHr_3dWqRR?usp=drive_link)
+- Opcionalmente puedes usar los [resource packs](https://drive.google.com/drive/folders/1VkHEREq3_UhdWctaSTAhdKt6HwejZr87?usp=drive_link)
+
+Puedes ver toda la información sobre los mods y la razón por la que los agregue en la [Wiki](https://github.com/Randall-MC/minecraft_fabric/wiki) de este repo 😊
+
 > Yo merengues
